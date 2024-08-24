@@ -4,9 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: 1. i'm a computer  Enthusiast
--              2. i'm a computer  Naturalist
--              3. i'm am Information and Communication Scientist
+- ⚡ Fun fact: 1. i'm a computer  Enthusiast <br> 2. i'm a computer  Naturalist <br> 3. i'm am Information and Communication Scientist
 -              
 
 <!---
