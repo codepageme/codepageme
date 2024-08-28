@@ -4,7 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: <b><ul><li> i'm a computer  Enthusiast</li> <br> <li> i'm a computer  Naturalist </li> <br> <li> i'm an Information and Communication Scientist </li></ul></b>
+- ⚡ Fun fact:
+- ⚡ i'm a computer  Enthusiast
+- ⚡ i'm a computer  Naturalist
+- ⚡ i'm an Information and Communication Scientist 
 
 <!---
 codepageme/codepageme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
