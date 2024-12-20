@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=goldgradient&text=CODEPAGE.ME!&height=200&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gold&text=CODEPAGE.ME!&height=200&section=header"/>
 </p>
 
 <h1 align="center">
