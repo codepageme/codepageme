@@ -21,3 +21,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+<img src =" https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=D4AF37&section=footer">
