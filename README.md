@@ -2,8 +2,8 @@
   <img src ="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=CodePage.Me&fontColor=D4AF37&animation=twinkling">
 </p>
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+<a href="https://www.facebook.com/your-facebook-profile-url">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174848.png" alt="Facebook" style="width: 20px; height: 20px;">
 </a>
 
 
