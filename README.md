@@ -1,5 +1,7 @@
-<h1 style="color: #00698f; font-size: 48px; text-align: center;">CodePage.Me</h1>
-<img src="https://raw.githubusercontent.com/codepageme/codepageme/main/nyout.jpeg" alt="Nightlit Header Image" style="width: 100%; height: 200px; object-fit: cover;">
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=CodePage.Me&fontColor=D4AF37&animation=twinkling
+
+
+
 - 👋 Hi, I’m @codepageme
 - 👀 I’m interested in Everything Technology
 - 🌱 I’m currently and constantly learning 
