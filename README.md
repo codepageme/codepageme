@@ -2,11 +2,33 @@
   <img src ="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=CodePage.Me&fontColor=D4AF37&animation=twinkling">
 </p>
 
-<a href="https://www.facebook.com/your-facebook-profile-url">
+<p align="center">
+Connent with me somewhere on earth <img height="50" src="https://user-images.githubusercontent.com/46517096/earth.png"/> :
+</p>
+<p align="center">
+<a href="mailto:codepage.me@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" style="width: 50px; height: 50px;">
+</a>
+<a href="https://www.facebook.com/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174848.png" alt="Facebook" style="width: 50px; height: 50px;">
 </a>
-
-
+<a href="https://twitter.com/">
+  <img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="Twitter" style="width: 50px; height: 50px;">
+</a>
+<a href="https://www.instagram.com/">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" style="width: 50px; height: 50px;">
+</a>
+<a href="https://www.tiktok.com/@happycode73">
+  <img src="https://cdn-icons-png.flaticon.com/512/3670/3670121.png" alt="TikTok" style="width: 50px; height: 50px;">
+</a>
+<a href="https://www.snapchat.com/add/">
+  <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" alt="Snapchat" style="width: 50px; height: 50px;">
+</a>
+<a href="https://wa.me/09072236203">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" style="width: 50px; height: 50px;">
+</a>
+</p>
+<hr>
 
 - 👋 Hi, I’m @codepageme
 - 👀 I’m interested in Everything Technology
