@@ -3,7 +3,7 @@
 </p>
 
 <a href="https://www.facebook.com/your-facebook-profile-url">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174848.png" alt="Facebook" style="width: 20px; height: 20px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174848.png" alt="Facebook" style="width: 50px; height: 30px;">
 </a>
 
 
