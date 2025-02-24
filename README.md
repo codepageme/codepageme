@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<b>Connent with me somewhere on earth <img src="https://raw.githubusercontent.com/codepageme/codepageme/earth.png" alt="Your Image" style="width: 40px; height: 40px;">:
+<b>Connent with me somewhere on earth <img src="https://raw.githubusercontent.com/codepageme/codepageme/chatme.png" alt="Your Image" style="width: 40px; height: 40px;">:
 </b></p>
 <p align="center">
 <a href="mailto:codepage.me@gmail.com">
