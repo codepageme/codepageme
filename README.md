@@ -2,9 +2,10 @@
   <img src ="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=CodePage.Me&fontColor=D4AF37&animation=twinkling">
 </p>
 
+
 <p align="center">
-Connent with me somewhere on earth <img height="50" src="https://user-images.githubusercontent.com/46517096/earth.png"/> :
-</p>
+<b>Connent with me somewhere on earth <img height="50" src="https://user-images.githubusercontent.com/codepageme/codepageme/earth.png"/> :
+</b></p>
 <p align="center">
 <a href="mailto:codepage.me@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" style="width: 50px; height: 50px;">
