@@ -8,13 +8,13 @@
 </b></h1> 
 <p align="center">
 <a href="mailto:codepage.me@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" style="width: 40px; height: 40px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" style="width: 40px; height: 40px; color:goldenrod; ">
 </a>
-<a href="github.io/happycode">
-  <img src="https://raw.githubusercontent.com/codepageme/codepageme/main/earth.png" alt="Your Image" style="width: 40px; height: 40px;">
+<a href="https://codepagehere.github.io/happycode/">
+  <img src="https://raw.githubusercontent.com/codepageme/codepageme/main/earth.png" alt="Your Image" style="width: 40px; height: 40px; color:goldenrod;">
 </a>
 <a href="https://www.tiktok.com/@happycode73">
- <img src="https://raw.githubusercontent.com/codepageme/codepageme/main/tiktok.png" alt="Your Image" style="width: 40px; height: 40px;">
+ <img src="https://raw.githubusercontent.com/codepageme/codepageme/main/tiktok.png" alt="Your Image" style="width: 40px; height: 40px; color:goldenrod; ">
 </a>
 <a href="https://wa.me/09072236203">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" style="width: 40px; height: 40px;">
