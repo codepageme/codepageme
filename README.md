@@ -10,14 +10,20 @@
 <a href="mailto:codepage.me@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" style="width: 40px; height: 40px; color:goldenrod; ">
 </a>
+<a href="https://www/facebook.com/">
+  <img src="https://raw.githubusercontent.com/codepageme/codepageme/main/facebook.png" alt="Your Image" style="width: 40px; height: 40px; color:#DAA520,;">
+</a>
 <a href="https://codepagehere.github.io/happycode/">
-  <img src="https://raw.githubusercontent.com/codepageme/codepageme/main/earth.png" alt="Your Image" style="width: 40px; height: 40px; color:goldenrod;">
+  <img src="https://raw.githubusercontent.com/codepageme/codepageme/main/earth.png" alt="Your Image" style="width: 40px; height: 40px; color:#DAA520,;">
 </a>
 <a href="https://github.com/codepageme">
   <img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" alt="GitHub" style="width: 50px; height: 50px;">
 </a>
 <a href="https://www.tiktok.com/@happycode73">
  <img src="https://raw.githubusercontent.com/codepageme/codepageme/main/tiktok.png" alt="Your Image" style="width: 40px; height: 40px; color:goldenrod; ">
+</a>
+<a href="https://www/x.com/">
+  <img src="https://raw.githubusercontent.com/codepageme/codepageme/main/xsocial.png" alt="Your Image" style="width: 40px; height: 40px; color:#DAA520,;">
 </a>
 <a href="https://wa.me/09072236203">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" style="width: 40px; height: 40px;">
