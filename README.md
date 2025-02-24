@@ -4,14 +4,14 @@
 
 
 <p align="center">
-<b>Connent with me somewhere on earth <img height="50" src="https://user-images.githubusercontent.com/codepageme/codepageme/earth.png"/> :
+<b>Connent with me somewhere on earth <img src="https://raw.githubusercontent.com/codepageme/codepageme/earth.png" alt="Your Image" style="width: 40px; height: 40px;">:
 </b></p>
 <p align="center">
 <a href="mailto:codepage.me@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" style="width: 40px; height: 40px;">
 </a>
 <a href="https://www.tiktok.com/@happycode73">
-  <img src="https://cdn-icons-png.flaticon.com/512/3670/3670121.png" alt="TikTok" style="width: 40px; height: 40px;">
+ <img src="https://raw.githubusercontent.com/codepageme/codepageme/main/tiktok.png" alt="Your Image" style="width: 40px; height: 40px;">
 </a>
 <a href="https://wa.me/09072236203">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" style="width: 40px; height: 40px;">
