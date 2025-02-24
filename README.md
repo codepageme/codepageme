@@ -13,6 +13,9 @@
 <a href="https://codepagehere.github.io/happycode/">
   <img src="https://raw.githubusercontent.com/codepageme/codepageme/main/earth.png" alt="Your Image" style="width: 40px; height: 40px; color:goldenrod;">
 </a>
+<a href="https://github.com/codepageme">
+  <img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" alt="GitHub" style="width: 50px; height: 50px;">
+</a>
 <a href="https://www.tiktok.com/@happycode73">
  <img src="https://raw.githubusercontent.com/codepageme/codepageme/main/tiktok.png" alt="Your Image" style="width: 40px; height: 40px; color:goldenrod; ">
 </a>
