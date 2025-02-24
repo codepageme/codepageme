@@ -3,9 +3,9 @@
 </p>
 
 
-<h3 align="center">
-<b>Connent with us:<img src="https://raw.githubusercontent.com/codepageme/codepageme/main/earth.png" alt="Your Image" style="width: 40px; height: 40px;">
-</b></h3> 
+<h1 align="center">
+<b>Connent with us:<img src="https://raw.githubusercontent.com/codepageme/codepageme/main/earth.png" alt="Your Image" style="width: 30px; height: 30px;">
+</b></h1> 
 <p align="center">
 <a href="mailto:codepage.me@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" style="width: 40px; height: 40px;">
