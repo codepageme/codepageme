@@ -30,20 +30,39 @@
 </a>
 </p>
 <hr>
+name: Wonderful Codepage
+located_in: Lagos , Nigeria
+current_job: Computer Naturalist , Computer Enthusiat , Information And Communication Scientist
+education:
+  [
+    "Self-Taught Humanoid",
+    " ** ** **",
+    " ** ** ** ",
+  ]
+company: HappyCode
 
-- 👋 Hi, I’m @codepageme
-- 👀 I’m interested in Everything Technology
-- 🌱 I’m currently and constantly learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact:
-- ⚡ i'm a computer  Enthusiast
-- ⚡ i'm a computer  Naturalist
-- ⚡ i'm an Information and Communication Scientist 
+fields_of_interests:
+  [
+    "Development",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+    "Networking",
+    " ** ** ",
+  ]
+technical_background:
+  [
+    "Full Stack Developer"
+        - Web
+        - Mobile
+   
+  ]
+  
+currently_learning: [ Constantly Learning ]
+Year Goals: [" **  ** "]
+hobbies: ["Music", "Gaming", "Problem Solving", "Reading & Learning", "Creation", " ** "]
 
-
-
+<hr>
 <img src ="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=D4AF37&section=footer">
 
 <!---
