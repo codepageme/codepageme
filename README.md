@@ -30,37 +30,44 @@
 </a>
 </p>
 <hr>
-name: Wonderful Codepage
-located_in: Lagos , Nigeria
-current_job: Computer Naturalist , Computer Enthusiat , Information And Communication Scientist
-education:
-  [
-    "Self-Taught Humanoid",
-    " ** ** **",
-    " ** ** ** ",
-  ]
-company: HappyCode
+# About Me 👨‍💻
 
-fields_of_interests:
-  [
-    "Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Networking",
-    " ** ** ",
-  ]
-technical_background:
-  [
-    "Full Stack Developer"
-        - Web
-        - Mobile
-   
-  ]
-  
-currently_learning: [ Constantly Learning ]
-Year Goals: [" **  ** "]
-hobbies: ["Music", "Gaming", "Problem Solving", "Reading & Learning", "Creation", " ** "]
+**Name**: Wonderful Codepage  
+**Location**: Lagos, Nigeria  
+**Current Job**: Computer Naturalist, Computer Enthusiast, Information and Communication Scientist  
+**Company**: HappyCode
+
+### Education 🎓
+- Self-Taught Humanoid
+- **[Your Degree or Institution Here]**
+- **[Another Degree or Institution Here]**
+
+### Fields of Interest 🌱
+- Development
+- Data Science
+- Machine Learning
+- UI/UX
+- Networking
+- **[Other Interest Here]**
+
+### Technical Background 🛠️
+- Full Stack Developer
+  - Web
+  - Mobile
+
+### Currently Learning 📚
+- Constantly Learning
+
+### Year Goals 🎯
+- **[Your Goals Here]**
+
+### Hobbies 🏀
+- Music
+- Gaming
+- Problem Solving
+- Reading & Learning
+- Creation
+- **[Other Hobby Here]**
 
 <hr>
 <img src ="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=D4AF37&section=footer">
