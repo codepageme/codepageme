@@ -73,49 +73,47 @@
 # Tools and Tech Stuff 🧰
 
 ### IDEs & Text Editors
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Visual_Studio_Code_1.35_icon.svg" width="40" height="40" /> Visual Studio Code  
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Atom_1.0_icon.png" width="40" height="40" /> Atom  
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Notepad%2B%2B_logo.png" width="40" height="40" /> Notepad++
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" /></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" width="40" height="40" /></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notepad/notepad-original.svg" width="40" height="40" /></span>
 
 ### Languages
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" /> Python  
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/JavaScript-logo.png" width="40" height="40" /> JavaScript  
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40" /> C++  
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="40" height="40" /> Go  
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="40" height="40" /> PHP  
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" /></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" /></span>
 
 ### Web Development
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/26/HTML5_logo.svg" width="40" height="40" /> HTML5  
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="40" height="40" /> CSS3  
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40" /> React  
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="40" height="40" /> Vue.js  
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="40" height="40" /> Angular  
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Bootstrap_logo_2023.svg" width="40" height="40" /> Bootstrap  
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Nextjs-logo.svg" width="40" height="40" /> Next.js  
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="40" height="40" /> Express.js  
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="40" height="40" /> Node.js  
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Vuetify_logo.png" width="40" height="40" /> Vuetify  
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" /></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40" /></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" /></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" /></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" /></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" width="40" height="40" /></span>
 
 ### Databases
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/MySQL_logo.svg" width="40" height="40" /> MySQL  
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/SQLite_logo.svg" width="40" height="40" /> SQLite  
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/MariaDB_logo.svg" width="40" height="40" /> MariaDB  
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40" height="40" /> PostgreSQL  
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" /></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" /></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" /></span>
 
 ### Server Technologies
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Apache_HTTP_Server_logo.svg" width="40" height="40" /> Apache  
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/XAMPP_Logo.png" width="40" height="40" /> XAMPP  
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40" /></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xampp/xampp-original.svg" width="40" height="40" /></span>
 
 ### Tools
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Git_logo.svg" width="40" height="40" /> Git  
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40" height="40" /> GitHub  
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" /></span>
 
 ### Frameworks & CMS
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Symfony_black_logo.svg" width="40" height="40" /> Symfony  
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel_Logo.svg" width="40" height="40" /> Laravel  
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="40" height="40" /></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" /></span>
 <hr>
-<img src ="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=D4AF37&section=footer">
-
 <!---
 codepageme/codepageme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
