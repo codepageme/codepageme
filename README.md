@@ -70,6 +70,51 @@
 - **[Other Hobby Here]**
 
 <hr>
+# Tools and Tech Stuff 🧰
+
+### IDEs & Text Editors
+![VS Code](https://upload.wikimedia.org/wikipedia/commons/d/d4/Visual_Studio_Code_1.35_icon.svg)
+![Atom](https://upload.wikimedia.org/wikipedia/commons/7/7e/Atom_1.0_icon.png)
+![Notepad++](https://upload.wikimedia.org/wikipedia/commons/1/1b/Notepad%2B%2B_logo.png)
+
+### Languages
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/64/JavaScript-logo.png)
+![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
+![Go](https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg)
+![PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
+
+### Web Development
+![HTML5](https://upload.wikimedia.org/wikipedia/commons/2/26/HTML5_logo.svg)
+![CSS3](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg)
+![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+![Vue.js](https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg)
+![Angular](https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg)
+![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/4/44/Bootstrap_logo_2023.svg)
+![Next.js](https://upload.wikimedia.org/wikipedia/commons/2/20/Nextjs-logo.svg)
+![Express.js](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)
+![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
+![Vuetify](https://upload.wikimedia.org/wikipedia/commons/1/1b/Vuetify_logo.png)
+
+### Databases
+![SQLite](https://upload.wikimedia.org/wikipedia/commons/9/91/SQLite_logo.svg)
+![MariaDB](https://upload.wikimedia.org/wikipedia/commons/0/01/MariaDB_logo.svg)
+![MySQL](https://upload.wikimedia.org/wikipedia/commons/6/69/MySQL_logo.svg)
+![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
+
+### Server Technologies
+![Apache](https://upload.wikimedia.org/wikipedia/commons/4/44/Apache_HTTP_Server_logo.svg)
+![XAMPP](https://upload.wikimedia.org/wikipedia/commons/d/d0/XAMPP_Logo.png)
+
+### Tools
+![Git](https://upload.wikimedia.org/wikipedia/commons/0/06/Git_logo.svg)
+![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
+
+### Frameworks & CMS
+![Symfony](https://upload.wikimedia.org/wikipedia/commons/7/7f/Symfony_black_logo.svg)
+![Laravel](https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel_Logo.svg)
+
+<hr>
 <img src ="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=D4AF37&section=footer">
 
 <!---
